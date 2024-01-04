@@ -1,6 +1,4 @@
 ### Hi there 👋
-![video](https://github.com/shristi2211/shristi2211/assets/150108636/cf5ee2db-95a9-4073-9baa-6d8080334372)
-
 <!--
 **shristi2211/shristi2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
