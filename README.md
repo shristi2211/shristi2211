@@ -6,5 +6,7 @@
 - 💞I'm cureently working on my new projects..
 - 📰Ask me about anything..
 - ⚡Fun Fact .. I like to draw my imaginations..
-- I love❤️solving programmings... like, C,C++,Python..
+- I love❤️solving programmings of different languages...
+     -## LANGUAGES ARE:-
+            -C ,C++,JAVA,PYTHON
 - My Github profile https://github.com/shristi2211
