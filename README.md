@@ -12,10 +12,10 @@
 
 ## 🚀 About Me
 
-* 💼 Full Stack Developer at **RNR Consulting Pvt. Ltd.**
-* ⚙️ Specializing in **Distributed Systems & Event-Driven Architecture**
-* 🚀 Focused on **high-performance backend systems**
-* 🎯 Passionate about solving **real-world scaling problems**
+* Full Stack Developer at **RNR Consulting Pvt. Ltd.**
+* Specializing in **Distributed Systems & Event-Driven Architecture**
+* Focused on **high-performance backend systems**
+* Passionate about solving **real-world scaling problems**
 
 ---
 
@@ -42,11 +42,11 @@
 
 ## 🏗️ What I Build
 
-* ⚡ Distributed backend systems
-* 🔄 Event-driven architectures
-* 🧠 Scalable APIs (gRPC, GraphQL, REST)
-* 🌐 Real-time applications
-* ☁️ Cloud-native solutions
+* Distributed backend systems
+* Event-driven architectures
+* Scalable APIs (gRPC, GraphQL, REST)
+* Real-time applications
+* Cloud-native solutions
 
 ---
 
@@ -80,11 +80,11 @@
 
 ## 🎯 Engineering Mindset
 
-* 🚀 Build for scale from day one
-* ⚡ Performance is non-negotiable
-* 🛡️ Reliability over shortcuts
-* 🧠 Clean architecture always wins
-* 🔄 Ship → Learn → Improve
+* Build for scale from day one
+* Performance is non-negotiable
+* Reliability over shortcuts
+* Clean architecture always wins
+* Ship → Learn → Improve
 
 ---
 
