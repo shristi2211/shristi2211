@@ -1,13 +1,15 @@
-## Hello, I'm [SHRISTI SRIVASTAVA] 👋...
+type Developer struct {
+    Role              string
+    Specialization    []string
+    CurrentFocus      string
+    SystemsBuilt      int
+    CoffeeConsumed    string
+}
 
-- 🪧REACH ME THROUGH linkedin....www.linkedin.com/in/shristi-srivastava-990245263
-- 🪧MY EMAIL is shristisrivastava2211@gmail.com
-- 🌸I'm currently learning making Chatboats ..
-- 💞I'm cureently working on my new projects..
-- 📰Ask me about anything..
-- ⚡Fun Fact .. I like to draw my imaginations..
-- I love❤️solving programmings of different languages...
-     -## LANGUAGES ARE:-
-            -C ,C++,JAVA,PYTHON
-- My best command on language ....JAVA
-- My Github profile https://github.com/shristi2211
+me := Developer{
+    Role:           "Full Stack Developer @ RNR Consulting",
+    Specialization: []string{"Distributed Systems", "Event-Driven Architecture", "Backend Engineering"},
+    CurrentFocus:   "Building fault-tolerant systems that scale",
+    SystemsBuilt:   "Production systems handling 120+ concurrent events",
+    CoffeeConsumed: "Too much ☕",
+}
