@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,25:ff758c,50:ffb199,75:a18cd1,100:667eea&height=220&section=header&text=Shristi%20Srivastava&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | Distributed Systems | Golang</h3>
+<h3 align="center">Full Stack Developer | Distributed Systems | Golang</h3>
 
 <p align="center">
   Designing scalable, event-driven systems with strong focus on performance, reliability & data consistency.
@@ -12,10 +12,10 @@
 
 ## 🚀 About Me
 
-* 💼 Full Stack Developer at **RNR Consulting Pvt. Ltd. (New Delhi)**
-* ⚙️ 1+ year experience in **Distributed Systems & Event-Driven Architecture**
-* 🧠 Specialized in solving **concurrency & data consistency challenges**
-* ⚡ Proven impact: **30% latency reduction + 99.9% uptime systems**
+* Full Stack Developer at **RNR Consulting Pvt. Ltd. (New Delhi)**
+* 1+ year experience in **Distributed Systems & Event-Driven Architecture**
+* Specialized in solving **concurrency & data consistency challenges**
+* Proven impact: **30% latency reduction + 99.9% uptime systems**
 
 ---
 
@@ -40,13 +40,13 @@
 
 ## 🏗️ Core Expertise
 
-* ⚡ Distributed Monolith & Microservices Architecture
-* 🔄 Event-Driven Systems using **NATS JetStream**
-* 🧠 Transactional Outbox Pattern (guaranteed delivery)
-* 🔗 gRPC for high-performance service communication
-* 📡 GraphQL for optimized frontend data fetching
-* 🔄 Real-time systems using WebSockets
-* ☁️ Cloud-native deployments (Docker + AWS)
+* Distributed Monolith & Microservices Architecture
+* Event-Driven Systems using **NATS JetStream**
+* Transactional Outbox Pattern (guaranteed delivery)
+* gRPC for high-performance service communication
+* GraphQL for optimized frontend data fetching
+* Real-time systems using WebSockets
+* Cloud-native deployments (Docker + AWS)
 
 ---
 
@@ -113,21 +113,21 @@
 
 ## 🏗️ What I Build
 
-* ⚡ High-performance backend systems
-* 🔄 Event-driven architectures
-* 🧠 Scalable APIs (gRPC, GraphQL, REST)
-* 🌐 Real-time applications
-* ☁️ Cloud-native platforms
+* High-performance backend systems
+* Event-driven architectures
+* Scalable APIs (gRPC, GraphQL, REST)
+* Real-time applications
+* Cloud-native platforms
 
 ---
 
 ## 🎯 Engineering Mindset
 
-* 🚀 Design for scale from day one
-* ⚡ Performance is critical
-* 🛡️ Reliability over shortcuts
-* 🧠 Clean architecture > quick hacks
-* 🔄 Ship → Measure → Improve
+* Design for scale from day one
+* Performance is critical
+* Reliability over shortcuts
+* Clean architecture > quick hacks
+* Ship → Measure → Improve
 
 ---
 
