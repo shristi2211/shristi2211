@@ -127,7 +127,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,25:ff758c,50:ffb199,75:a18cd1,100:667eea&height=220a&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,25:ff758c,50:ffb199,75:a18cd1,100:667eea&height=120&section=footer"/>
 </p>
-
 
