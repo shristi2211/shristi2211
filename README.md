@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:8e2de2&height=220&section=header&text=Shristi%20Srivastava&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a6c1ee,100:fbc2eb&height=220&section=header&text=Shristi%20Srivastava&fontSize=45&fontColor=333333&animation=fadeIn"/>
 </p>
 
 <h3 align="center">Full Stack Developer • Distributed Systems • Golang</h3>
