@@ -54,48 +54,71 @@
 
 ### 💼 Full Stack Developer — RNR Consulting Pvt. Ltd.
 
-#### 🔹 Distributed System Architecture
+#### 🔹 System Architecture & Design
 
-* Architected a **modular distributed monolith** using Golang
-* Centralized routing & auth via **Kong API Gateway**
-* Designed shared PostgreSQL-based system for consistency
+* Designed and implemented multiple backend systems using **different architectural patterns based on use-case**
 
-#### 🔹 Reliable Messaging System
+  * 🏗️ **Monolithic Architecture (ARC)** → Simple, tightly coupled system for faster development & deployment
+  * 🔗 **Microservices Architecture (ERP, NHIT)** → Built scalable services with **dynamic role-based access control (RBAC)**
+  * ⚡ **Distributed Monolith + Event-Driven (GRC)** → Combined modular design with async communication using **Kong API Gateway (Supabase-style architecture)**
 
-* Built event pipeline using **NATS JetStream**
-* Implemented **Transactional Outbox Pattern**
-* Achieved **100% message delivery for 120+ concurrent events**
+* Ensured **scalability, maintainability, and clear separation of concerns** across all systems
 
-#### 🔹 Concurrency Optimization
+---
 
-* Eliminated deadlocks using **PostgreSQL SKIP LOCKED**
-* Achieved smooth parallel processing under high load
+#### 🔹 Messaging, Events & Data Consistency
 
-#### 🔹 ERP System Development
+* Built asynchronous pipelines using **NATS JetStream**
+* Implemented **Transactional Outbox Pattern** to guarantee event delivery
+* Achieved **100% message reliability** under **120+ concurrent events/sec**
+* Ensured **data consistency across distributed components**
 
-* Built scalable backend using **Hexagonal Architecture**
-* Integrated:
+---
 
-  * GraphQL → optimized frontend queries
-  * gRPC → fast inter-service communication
-* Achieved **100% decoupling of business logic**
+#### 🔹 Concurrency & Performance Engineering
 
-#### 🔹 Performance Optimization
+* Solved race conditions using **PostgreSQL SKIP LOCKED**
+* Enabled **parallel worker processing without contention**
+* Eliminated **deadlocks completely under high traffic load**
+* Optimized queries & indexing → reduced API latency by **30%**
 
-* Refactored complex SQL queries
-* Implemented indexing strategies
-* Reduced API latency by **30%**
+---
+
+#### 🔹 API & Communication Layer
+
+* Designed and implemented:
+
+  * **GraphQL** → optimized frontend data fetching
+  * **gRPC** → high-performance inter-service communication
+  * **REST APIs** → external integrations
+
+* Reduced over-fetching and improved system efficiency significantly
+
+---
 
 #### 🔹 Real-Time System Design
 
-* Integrated **WebSockets** for instant sync
-* Achieved near real-time communication (<100ms latency)
+* Integrated **WebSockets** for real-time updates
+* Achieved **sub-100ms latency** for live synchronization
+* Enabled seamless communication between **Next.js & Flutter clients**
+
+---
 
 #### 🔹 DevOps & Infrastructure
 
-* Containerized services using **Docker**
-* Deployed on **AWS (EC2, S3, Lambda)**
-* Enabled auto-scaling → maintained **99.9% uptime**
+* Containerized applications using **Docker**
+* Deployed scalable systems on **AWS (EC2, S3, Lambda)**
+* Implemented auto-scaling & monitoring
+* Maintained **99.9% uptime in production systems**
+
+---
+
+#### 🔹 Key Impact
+
+* 🚀 Built **highly scalable distributed systems across multiple domains**
+* ⚡ Improved performance with **30% latency reduction**
+* 🔒 Achieved **zero data inconsistency & reliable event delivery**
+* 👥 Supported **300+ concurrent users without downtime**
 
 ---
 
