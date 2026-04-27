@@ -84,7 +84,7 @@
 
 * Refactored complex SQL queries
 * Implemented indexing strategies
-* 🚀 Reduced API latency by **30%**
+* Reduced API latency by **30%**
 
 #### 🔹 Real-Time System Design
 
