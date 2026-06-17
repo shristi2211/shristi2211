@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,25:ff758c,50:ffb199,75:a18cd1,100:667eea&height=220&section=header&text=Shristi%20Srivastava&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h3 align="center">Full Stack Developer | Distributed Systems | Golang</h3>
+<h3 align="center">Backend & Platform Engineer | Golang | Distributed Systems | DevOps</h3>
 
 <p align="center">
-  Designing scalable, event-driven systems with strong focus on performance, reliability & data consistency.
+Building production-ready systems across backend engineering, infrastructure automation, networking and cloud platforms.
 </p>
 
 ---
@@ -236,7 +236,7 @@ Distributed Systems • Event-Driven Architecture • Transactional Outbox • H
 ---
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+  <i>"From code to infrastructure — building systems that scale."</i>
 </p>
 
 <p align="center">
