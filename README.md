@@ -65,7 +65,7 @@ Distributed Systems • Event-Driven Architecture • Transactional Outbox • H
 
 ## 🏗️ Core Expertise
 
-** Backend Engineering **
+### Backend Engineering 
 * Building scalable backend services using Golang
 * Designing REST, GraphQL and gRPC APIs
 * Real-time communication using WebSockets
