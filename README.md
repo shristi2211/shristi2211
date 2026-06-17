@@ -61,18 +61,19 @@ Docker • Jenkins • AWS • Proxmox • OPNsense • WireGuard • Linux
 Distributed Systems • Event-Driven Architecture • Transactional Outbox • Hexagonal Architecture • Microservices
 <br/>
 
-
 </p>
 
 ## 🏗️ Core Expertise
 
-* Distributed Monolith & Microservices Architecture
-* Event-Driven Systems using **NATS JetStream**
-* Transactional Outbox Pattern (guaranteed delivery)
-* gRPC for high-performance service communication
-* GraphQL for optimized frontend data fetching
-* Real-time systems using WebSockets
-* Cloud-native deployments (Docker + AWS)
+** Backend Engineering **
+* Building scalable backend services using Golang
+* Designing REST, GraphQL and gRPC APIs
+* Real-time communication using WebSockets
+* Database design and query optimization
+
+
+
+
 
 ---
 
