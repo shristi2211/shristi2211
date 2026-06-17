@@ -12,10 +12,11 @@
 
 ## 🚀 About Me
 
-* Full Stack Developer at **RNR Consulting Pvt. Ltd. (New Delhi)**
-* 1+ year experience in **Distributed Systems & Event-Driven Architecture**
-* Specialized in solving **concurrency & data consistency challenges**
-* Proven impact: **30% latency reduction + 99.9% uptime systems**
+* Backend & Platform Engineer who enjoys building systems beyond code
+* Experienced across Backend Development, Distributed Systems, CI/CD, Networking and Infrastructure Automation
+* Built and operated production environments using Golang, Docker, Jenkins, Proxmox, OPNsense and WireGuard
+* Passionate about solving performance, reliability and scalability challenges from application layer to infrastructure layer
+* Currently exploring Platform Engineering, GeoAI, Cloud Infrastructure and Startup Building
 
 ---
 
