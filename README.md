@@ -39,11 +39,37 @@ Designing and operating production systems across backend engineering, distribut
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,ts,postgres,redis,mysql,react,nextjs,flutter,docker,aws" />
+<img src="https://skillicons.dev/icons?i=go,ts,dart" />
 </p>
 
----
+### 🎨 Frontend & Mobile
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind" />
+</p>
+
+### ⚙️ Backend & Data
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,graphql" />
+</p>
+
+### 🚀 DevOps & Infrastructure
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,jenkins,aws,linux" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Proxmox-Virtualization-E57000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPNsense-Firewall%20%26%20Routing-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WireGuard-VPN-88171A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NATS-JetStream-27AAE1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/gRPC-Service%20Communication-4285F4?style=for-the-badge"/>
+</p>
 
 ## 🏗️ Core Expertise
 
