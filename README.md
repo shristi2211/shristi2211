@@ -43,24 +43,12 @@ Designing and operating production systems across backend engineering, distribut
 
 <b>Backend</b><br/>
 Golang • gRPC • GraphQL • REST • NATS JetStream • WebSockets
-
-<br/><br/>
-
 <b>Data Layer</b><br/>
 PostgreSQL • Redis • MySQL
-
-<br/><br/>
-
 <b>Frontend</b><br/>
 Vanilla JavaScript • TypeScript • React.js • Next.js • Flutter • Tailwind CSS
-
-<br/><br/>
-
 <b>Infrastructure</b><br/>
 Docker • Jenkins • AWS • Proxmox • OPNsense • WireGuard • Linux
-
-<br/><br/>
-
 <b>Architecture</b><br/>
 Distributed Systems • Event-Driven Architecture • Transactional Outbox • Hexagonal Architecture • Microservices
 
