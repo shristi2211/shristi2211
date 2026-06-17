@@ -37,38 +37,33 @@ Designing and operating production systems across backend engineering, distribut
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
+## 🛠️ Engineering Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,ts,dart" />
-</p>
 
-### 🎨 Frontend & Mobile
+<b>Backend</b><br/>
+Golang • gRPC • GraphQL • REST • NATS JetStream • WebSockets
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind" />
-</p>
+<br/><br/>
 
-### ⚙️ Backend & Data
+<b>Data Layer</b><br/>
+PostgreSQL • Redis • MySQL
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,graphql" />
-</p>
+<br/><br/>
 
-### 🚀 DevOps & Infrastructure
+<b>Frontend</b><br/>
+Vanilla JavaScript • TypeScript • React.js • Next.js • Flutter • Tailwind CSS
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,jenkins,aws,linux" />
-</p>
+<br/><br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Proxmox-Virtualization-E57000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OPNsense-Firewall%20%26%20Routing-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WireGuard-VPN-88171A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NATS-JetStream-27AAE1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/gRPC-Service%20Communication-4285F4?style=for-the-badge"/>
+<b>Infrastructure</b><br/>
+Docker • Jenkins • AWS • Proxmox • OPNsense • WireGuard • Linux
+
+<br/><br/>
+
+<b>Architecture</b><br/>
+Distributed Systems • Event-Driven Architecture • Transactional Outbox • Hexagonal Architecture • Microservices
+
 </p>
 
 ## 🏗️ Core Expertise
