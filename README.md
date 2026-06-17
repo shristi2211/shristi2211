@@ -28,6 +28,18 @@
   <img src="https://img.shields.io/badge/Concurrency-300%2B%20Users-ff9800?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Throughput-120%2B%20Events%2Fs-7c4dff?style=for-the-badge"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/API%20Performance-30%25%20Latency%20Reduction-ff758c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Reliability-99.9%25%20Uptime-00c853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Event%20Driven-120%2B%20Events%2FSec-7c4dff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Infrastructure-Proxmox%20%7C%20OPNsense%20%7C%20Jenkins-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scale-300%2B%20Concurrent%20Users-ff9800?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Designing and operating production systems across backend engineering, distributed systems, networking and infrastructure automation.
+</p>
+
 
 ---
 
