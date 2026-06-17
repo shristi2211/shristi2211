@@ -71,81 +71,88 @@ Distributed Systems • Event-Driven Architecture • Transactional Outbox • H
 * Real-time communication using WebSockets
 * Database design and query optimization
 
+### Distributed Systems
+* Event-Driven Architecture using NATS JetStream
+* Transactional Outbox Pattern
+* Concurrent worker processing using PostgreSQL SKIP LOCKED
+* Reliable asynchronous communication between services
 
+## DevOps & Platform Engineering 
+* CI/CD automation using Jenkins
+* Containerized deployments using Docker
+* Infrastructure troubleshooting and deployment automation
+* Production environment management and monitoring
 
+### Infrastructure & Networking
+* Proxmox Virtualization
+* OPNsense Firewall & Routing
+* WireGuard VPN
+* Dual WAN Failover Architecture
+* Network Segmentation & Security Policies
+* VM Provisioning & Access Management
 
-
+### Cloud & Deployment
+* AWS EC2, S3 and Lambda
+* Nginx Reverse Proxy
+* Multi-service deployments
+* Production environment operations
 ---
 
 ## 🌟 Professional Experience
 
-### 💼 Full Stack Developer — RNR Consulting Pvt. Ltd.
+#### 🔹 Distributed Systems & Messaging
 
-#### 🔹 System Architecture & Design
-
-* Designed and implemented multiple backend systems using **different architectural patterns based on use-case**
-
-  * 🏗️ **Monolithic Architecture (ARC)** → Simple, tightly coupled system for faster development & deployment
-  * 🔗 **Microservices Architecture (ERP, NHIT)** → Built scalable services with **dynamic role-based access control (RBAC)**
-  * ⚡ **Distributed Monolith + Event-Driven (GRC)** → Combined modular design with async communication using **Kong API Gateway (Supabase-style architecture)**
-
-* Ensured **scalability, maintainability, and clear separation of concerns** across all systems
+* Designed and implemented asynchronous communication pipelines using **NATS JetStream**
+* Applied the **Transactional Outbox Pattern** to improve reliability of event publishing workflows
+* Built event-driven services capable of processing **120+ events/sec**
+* Improved consistency and resilience across distributed components
+* Developed scalable notification and background processing workflows
 
 ---
 
-#### 🔹 Messaging, Events & Data Consistency
+#### 🔹  Concurrency & Performance Engineering
 
-* Built asynchronous pipelines using **NATS JetStream**
-* Implemented **Transactional Outbox Pattern** to guarantee event delivery
-* Achieved **100% message reliability** under **120+ concurrent events/sec**
-* Ensured **data consistency across distributed components**
-
----
-
-#### 🔹 Concurrency & Performance Engineering
-
-* Solved race conditions using **PostgreSQL SKIP LOCKED**
-* Enabled **parallel worker processing without contention**
-* Eliminated **deadlocks completely under high traffic load**
-* Optimized queries & indexing → reduced API latency by **30%**
+* Implemented concurrent worker processing using **PostgreSQL SKIP LOCKED**
+* Eliminated worker contention and improved job execution efficiency
+* Solved race-condition scenarios in high-concurrency environments
+* Optimized SQL queries, indexing strategies and data access patterns
+* Reduced API response latency by 30% across critical services
 
 ---
 
 #### 🔹 API & Communication Layer
-
-* Designed and implemented:
-
-  * **GraphQL** → optimized frontend data fetching
-  * **gRPC** → high-performance inter-service communication
-  * **REST APIs** → external integrations
-
-* Reduced over-fetching and improved system efficiency significantly
+* Designed and developed production-grade APIs using: **REST APIs** for external integrations, **GraphQL** for optimized frontend data retrieval, **gRPC** for effective service-to-service communication.
+* Improved frontend performance by reducing over-fetching and unnecessary network requests
+* Built reusable backend modules with clear separation of concerns 
 
 ---
 
-#### 🔹 Real-Time System Design
+#### 🔹 Real-Time System
 
-* Integrated **WebSockets** for real-time updates
-* Achieved **sub-100ms latency** for live synchronization
-* Enabled seamless communication between **Next.js & Flutter clients**
+* Integrated **WebSockets** for real-time application updates
+* Enabled low-latency communication between **Next.js and Flutter** clients
+* Improved responsiveness of user-facing workflows
+* Built event-driven user notification and synchronization mechanisms
 
 ---
 
 #### 🔹 DevOps & Infrastructure
 
 * Containerized applications using **Docker**
-* Deployed scalable systems on **AWS (EC2, S3, Lambda)**
-* Implemented auto-scaling & monitoring
-* Maintained **99.9% uptime in production systems**
-
+* Built and maintained **Jenkins-based CI/CD pipelines**
+* Automated deployment workflows using GitHub Webhooks and Docker
+* Deployed and operated workloads on **AWS (EC2, S3, Lambda)**
+* Investigated and resolved deployment and build infrastructure issues
+* Contributed to maintaining highly available production environments
 ---
 
 #### 🔹 Key Impact
 
-* 🚀 Built **highly scalable distributed systems across multiple domains**
-* ⚡ Improved performance with **30% latency reduction**
-* 🔒 Achieved **zero data inconsistency & reliable event delivery**
-* 👥 Supported **300+ concurrent users without downtime**
+* Delivered scalable backend systems across multiple business domains
+* Improved application performance with 30% lower API latency
+* Increased reliability of asynchronous event processing workflows
+* Supported platforms serving 300+ concurrent users
+* Contributed across the full stack — backend engineering, infrastructure, networking and deployment automation
 
 ---
 
@@ -153,49 +160,62 @@ Distributed Systems • Event-Driven Architecture • Transactional Outbox • H
 
 ### 🧠 Technical Team Lead — Yukti Sangam Hackathon
 
-* Led team of **5+ developers**
-* Built platform handling **300+ concurrent users**
-* Delivered **zero downtime system**
-* Managed full SDLC (architecture → deployment)
-* Mentored junior engineers on clean code & APIs
+* Led team of **5+ developers** throughout the project lifecycle
+* Coordinated architecture, development and deployment activities
+* Delivered and maintained the official hackathon platform
+* Supported 300+ concurrent users during peak registration periods
+* Conducted code reviews and mentored junior developers
+* Collaborated with stakeholders to align technical execution with business requirements
 
 ---
 
 ## 🏗️ What I Build
 
-* High-performance backend systems
-* Event-driven architectures
-* Scalable APIs (gRPC, GraphQL, REST)
-* Real-time applications
-* Cloud-native platforms
+* Scalable Backend Systems
+* Event-Driven Architectures
+* Distributed Applications
+* Real-Time Platforms
+* CI/CD Pipelines
+* Infrastructure Automation Solutions
+* Secure Networking & Platform Setups
+* Cloud-Native Deployments
+* Internal Tools & Business Applications
 
 ---
 
 ## 🎯 Engineering Mindset
 
-* Design for scale from day one
-* Performance is critical
-* Reliability over shortcuts
-* Clean architecture > quick hacks
-* Ship → Measure → Improve
+* Solve problems before choosing technologies
+* Build systems with long-term maintainability in mind
+* Focus on reliability, observability and performance
+* Automate repetitive operational tasks
+* Understand the complete lifecycle from development to production
+* Continuously learn and improve through experimentation
 
 ---
 
 ## 🌱 Currently Exploring
 
-* Advanced Kubernetes
+* Kubernetes & Container Orchestration
 * Distributed Tracing (OpenTelemetry)
-* Event Sourcing & CQRS
-* Rust for systems programming
+* Event Sourcing & CQRS Patterns
+* Platform Engineering
+* Cloud Infrastructure Design
+* GeoAI & Climate-Tech Systems
+* Startup Building & Product Development
 
 ---
 
 ## 🤝 Let’s Collaborate
 
+* Backend Engineering (Golang)
 * Distributed Systems Design
-* Backend Optimization
+* Event-Driven Architectures
+* Infrastructure Automation
+* CI/CD & DevOps Workflows
+* Networking & Platform Engineering
 * System Architecture Reviews
-* Open Source Contributions
+* Technical Research & Prototyping
 
 ---
 
