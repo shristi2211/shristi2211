@@ -117,9 +117,9 @@
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS & REAL-TIME ACTIVITY -->
 
-### 📈 GitHub Activity
+### 📈 GitHub Activity & Real-Time Feed
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shristi2211&show_icons=true&theme=dracula&hide_border=true" height="175"/>
@@ -129,6 +129,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shristi2211&theme=dracula&hide_border=true" height="175"/>
 </p>
+
+#### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
