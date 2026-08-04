@@ -26,7 +26,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="margin-left:20px"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="margin-left:20px"/>
 
 ```yaml
 name       : Shristi Srivastava
