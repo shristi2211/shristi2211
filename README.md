@@ -1,6 +1,12 @@
-<!-- BANNER -->
+<!-- HEADER & ANIMATED ROLES -->
 <p align="center">
-  <img src="./hero_banner.png?v=2" alt="Shristi Srivastava — DevOps · Backend · Distributed Systems" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=180&section=header&text=SHRISTI%20SRIVASTAVA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1500&color=F97316&center=true&vCenter=true&width=600&height=50&lines=Platform+Engineer;Network+Engineer;DevOps+Engineer;Backend+Developer;Distributed+Systems" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- CONTACT & VISITOR BADGES -->
