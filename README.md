@@ -122,8 +122,8 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shristi2211&show_icons=true&theme=dracula&hide_border=true" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shristi2211&layout=compact&theme=dracula&hide_border=true" height="175"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shristi2211&show_icons=true&theme=dracula&hide_border=true" height="175"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shristi2211&layout=compact&theme=dracula&hide_border=true" height="175"/>
 </p>
 
 <p align="center">
