@@ -207,5 +207,5 @@ Institute of Technology & Management, Gida · Gorakhpur, India 🇮🇳
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:c9184a,100:f97316&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:c9184a,100:f97316&height=124&section=footer"/>
 </p>
