@@ -1,10 +1,6 @@
-<!-- HERO BANNER -->
+<!-- BANNER -->
 <p align="center">
   <img src="./hero_banner.png" alt="Shristi Srivastava — DevOps · Backend · Distributed Systems" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="./name_card.png" alt="Shristi Srivastava / DevOps Engineer" width="55%"/>
 </p>
 
 <!-- CONTACT & VISITOR BADGES -->
