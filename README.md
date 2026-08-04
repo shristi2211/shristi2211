@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shristi%20Srivastava&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Backend%20Engineer%20%7C%20Distributed%20Systems&descAlignY=58&descSize=18&descColor=a0a8c8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Shristi%20Srivastava&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Backend%20Engineer%20%7C%20Distributed%20Systems&descAlignY=58&descSize=18&descColor=9ca3af"/>
 </p>
 
 <p align="center">
@@ -160,12 +160,12 @@ J.P. Education Academy, Gorakhpur · India
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shristi2211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shristi2211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shristi2211&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shristi2211&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shristi2211&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff758c&currStreakLabel=a78bfa"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shristi2211&theme=github_dark&hide_border=true&background=0d1117"/>
 </p>
 
 ---
@@ -181,5 +181,5 @@ Open to collaborating on: **Backend Engineering (Golang)** · **Distributed Syst
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer"/>
 </p>
