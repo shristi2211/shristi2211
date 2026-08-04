@@ -16,6 +16,9 @@
   <a href="https://github.com/shristi2211">
     <img src="https://img.shields.io/badge/GitHub-%230d0d0d.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://portfoliosoftfulldev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23f72585.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=shristi2211&style=for-the-badge&color=f72585&label=PROFILE+VIEWS"/>
 </p>
 
@@ -34,6 +37,7 @@ company    : RNR Consulting Pvt. Ltd.
 experience : 1+ year in production systems
 stack      : [ Golang, Docker, Kubernetes, AWS,
                Jenkins, Ansible, gRPC, NATS ]
+portfolio  : https://portfoliosoftfulldev.netlify.app
 focus      : Reliability · Observability · Scalability
 currently  : Learning Kubernetes, Terraform, OpenTelemetry
 goal       : Build systems that are reliable & built to last
