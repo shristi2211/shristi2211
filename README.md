@@ -127,11 +127,7 @@ goal       : Build systems that are reliable & built to last
   <img src="https://streak-stats.demolab.com?user=shristi2211&theme=radical&hide_border=true&background=0d0d0d&ring=f72585&fire=f97316&currStreakLabel=f97316&sideLabels=f72585&dates=ffffff&date_format=j%20M%5B%2C%20Y%5D&mode=weekly&starting_year=2023" width="70%"/>
 </div>
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shristi2211&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=6&rank=SSS,SS,S,AAA,AA,A,B,C"/>
-</div>
 
 ### 📉 Contribution Graph — From 2023 to Today
 
@@ -141,7 +137,13 @@ goal       : Build systems that are reliable & built to last
 
 ### 🐍 Contribution Snake — Auto Regenerates Every 12h
 
-> **⚡ One-time setup needed:** Go to [Actions tab](https://github.com/shristi2211/shristi2211/actions/workflows/snake.yml) → Click **"Run workflow"** to generate the snake for the first time. After that it auto-updates every 12 hours!
+> ⚠️ **IMPORTANT: SETUP REQUIRED**
+> 🛑 **SNAKE IS NOT VISIBLE YET BECAUSE IT NEEDS TO BE RUN FOR THE FIRST TIME!**
+> **How to fix this right now:**
+> 1. Go to this link: [Snake Workflow Actions Page](https://github.com/shristi2211/shristi2211/actions/workflows/snake.yml)
+> 2. Click the grey **"Run workflow"** button on the right side.
+> 3. Click the green **"Run workflow"** button inside the dropdown to confirm.
+> 4. Wait 1 minute and refresh your profile page. The snake will appear!
 
 <div align="center">
   <picture>
