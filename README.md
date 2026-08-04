@@ -126,7 +126,7 @@ goal       : Build systems that are reliable & built to last
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shristi2211&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shristi2211&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=6&rank=SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 ### 📉 Contribution Graph — Real-Time
@@ -136,6 +136,8 @@ goal       : Build systems that are reliable & built to last
 </div>
 
 ### 🐍 Contribution Snake — Auto Regenerates Every 12h
+
+> **⚡ One-time setup needed:** Go to [Actions tab](https://github.com/shristi2211/shristi2211/actions/workflows/snake.yml) → Click **"Run workflow"** to generate the snake for the first time. After that it auto-updates every 12 hours!
 
 <div align="center">
   <picture>
