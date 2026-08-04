@@ -1,6 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     HERO BANNER                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- HERO BANNER -->
 <p align="center">
   <img src="./hero_banner.png" alt="Shristi Srivastava — DevOps · Backend · Distributed Systems" width="100%"/>
 </p>
@@ -9,51 +7,44 @@
   <img src="./name_card.png" alt="Shristi Srivastava / DevOps Engineer" width="55%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CONTACT & VISITOR BADGES                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- CONTACT & VISITOR BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/shristi-srivastava-990245263">
-    <img src="https://img.shields.io/badge/LinkedIn-2d6a4f?style=for-the-badge&logo=linkedin&logoColor=d8f3dc"/>
+    <img src="https://img.shields.io/badge/LinkedIn-c9184a?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shristisrivastava2211@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1b4332?style=for-the-badge&logo=gmail&logoColor=d8f3dc"/>
+    <img src="https://img.shields.io/badge/Email-f97316?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/shristi2211">
-    <img src="https://img.shields.io/badge/GitHub-081c15?style=for-the-badge&logo=github&logoColor=d8f3dc"/>
+    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://portfolio.iaasifdev.certify.app">
-    <img src="https://img.shields.io/badge/Portfolio-40916c?style=for-the-badge&logo=vercel&logoColor=d8f3dc"/>
+    <img src="https://img.shields.io/badge/Portfolio-f72585?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=shristi2211&style=for-the-badge&color=2d6a4f&label=VISITORS"/>
+  <img src="https://komarev.com/ghpvc/?username=shristi2211&style=for-the-badge&color=c9184a&label=VISITORS"/>
 </p>
 
 <p align="center">
-  <i>🌿 "I build systems that scale, just like nature does — quietly, efficiently, and without breaking."</i>
+  <i>"I build systems that scale — reliable, observable, and built to last."</i>
 </p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 
-### 🌍 Hello, I'm Shristi
+### 👋 Hello, I'm Shristi
 
-- 🌿 **DevOps · Backend · Platform Engineer** — **1+ year** of production experience
-- 🌲 Building with **Golang · Distributed Systems · CI/CD · Infrastructure**
-- 🍃 Great systems, like forests, grow through **deep roots and clean architecture**
-- 🌱 Exploring **Kubernetes · Terraform · GeoAI · Climate-Tech**
-- 🦋 Off-screen: hiking trails, watching sunsets, and thinking in systems 🏔️
+- 🔧 **DevOps · Backend · Platform Engineer** — **1+ year** of production experience
+- ⚙️ Building with **Golang · Distributed Systems · CI/CD · Infrastructure**
+- 📐 Great systems grow through **deep roots and clean architecture**
+- 📚 Exploring **Kubernetes · Terraform · GeoAI · Climate-Tech**
 - 📍 New Delhi, India 🇮🇳
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   QUANTIFIED IMPACT                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- QUANTIFIED IMPACT -->
 
 ### 📊 Numbers from the Field
 
@@ -71,18 +62,16 @@
     <td align="center">🔒 <b>100%</b><br/><sub>Event Delivery</sub></td>
     <td align="center">🏗️ <b>Hexagonal</b><br/><sub>Architecture</sub></td>
     <td align="center">☁️ <b>AWS</b><br/><sub>EC2 · S3 · Lambda</sub></td>
-    <td align="center">🌐 <b>Multi-VM</b><br/><sub>Proxmox Infra</sub></td>
+    <td align="center">🖥️ <b>Multi-VM</b><br/><sub>Proxmox Infra</sub></td>
     <td align="center">🔐 <b>WireGuard</b><br/><sub>VPN Deployed</sub></td>
   </tr>
 </table>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
 
-### 🌳 Engineering Ecosystem
+### 🛠️ Engineering Ecosystem
 
 <p align="center">
 
@@ -90,14 +79,14 @@
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-333333?style=flat-square&logo=gnubash&logoColor=white)
 
 **Backend & APIs**<br/>
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-f72585?style=flat-square&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-40916c?style=flat-square&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-f97316?style=flat-square&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-c9184a?style=flat-square&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-7b2d8b?style=flat-square&logoColor=white)
 
 **Frontend**<br/>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -126,39 +115,35 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
 
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shristi2211&theme=solarized_dark" height="175"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shristi2211&theme=solarized_dark" height="175"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shristi2211&theme=solarized_dark" height="175"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shristi2211&theme=dracula" height="175"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shristi2211&theme=dracula" height="175"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shristi2211&theme=dracula" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shristi2211&theme=merko&hide_border=true" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shristi2211&theme=solarized_dark&utcOffset=5.5" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shristi2211&theme=rose_pine&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shristi2211&theme=dracula&utcOffset=5.5" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shristi2211&theme=solarized_dark" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shristi2211&theme=dracula" width="100%"/>
 </p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   EXPERIENCE                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- EXPERIENCE -->
 
-### 🌲 Experience
+### 💼 Experience
 
 **Full Stack Developer — RNR Consulting Pvt. Ltd.** &nbsp; `Apr 2025 – Present` &nbsp; · &nbsp; New Delhi
 
 <details>
-<summary>🍃 Backend Engineering</summary>
+<summary>⚙️ Backend Engineering</summary>
 
 - Architected a **Distributed Monolith** using **Golang + Kong API Gateway** — centralised auth and routing on a shared PostgreSQL instance
 - Engineered **Reliable Messaging** via **Transactional Outbox + NATS JetStream** → **100% delivery** for **120+ concurrent events**
@@ -170,7 +155,7 @@
 </details>
 
 <details>
-<summary>🌿 DevOps & Infrastructure Automation</summary>
+<summary>🚀 DevOps & Infrastructure Automation</summary>
 
 - Optimised **Jenkins CI/CD** with parallelised Docker BuildKit → **60 min → 30 min** (85%+ faster)
 - Self-hosted **private Docker Registry** — eliminated intermediate transfer steps
@@ -193,9 +178,7 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              EDUCATION & CERTIFICATIONS                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- EDUCATION -->
 
 ### 🎓 Education & Certifications
 
@@ -207,30 +190,26 @@ Institute of Technology & Management, Gida · Gorakhpur, India 🇮🇳
 | Docker & Containerization | ✅ Completed |
 | Linux Administration | ✅ Completed |
 | Networking Fundamentals | ✅ Completed |
-| Kubernetes | 🌱 In Progress |
-| Terraform | 🌱 In Progress |
-| Prometheus & Grafana | 🌱 In Progress |
+| Kubernetes | 🔄 In Progress |
+| Terraform | 🔄 In Progress |
+| Prometheus & Grafana | 🔄 In Progress |
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CURRENTLY GROWING                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- CURRENTLY LEARNING -->
 
-### 🌱 Currently Growing Into
+### 📖 Currently Learning
 
-`Kubernetes` &nbsp;·&nbsp; `Terraform` &nbsp;·&nbsp; `Prometheus & Grafana` &nbsp;·&nbsp; `OpenTelemetry` &nbsp;·&nbsp; `Platform Engineering` &nbsp;·&nbsp; `Event Sourcing & CQRS` &nbsp;·&nbsp; `🌍 GeoAI & Climate-Tech`
+`Kubernetes` &nbsp;·&nbsp; `Terraform` &nbsp;·&nbsp; `Prometheus & Grafana` &nbsp;·&nbsp; `OpenTelemetry` &nbsp;·&nbsp; `Platform Engineering` &nbsp;·&nbsp; `Event Sourcing & CQRS` &nbsp;·&nbsp; `GeoAI & Climate-Tech`
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
 
 <p align="center">
-  <i>🌳 "From forest floors to distributed systems — everything thrives when the roots are strong."</i>
+  <i>"From code to infrastructure — building systems that are reliable, scalable and observable."</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,30:2d6a4f,60:40916c,100:52b788&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:c9184a,100:f97316&height=120&section=footer"/>
 </p>
