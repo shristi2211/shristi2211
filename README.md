@@ -120,7 +120,7 @@ goal       : Build systems that are reliable & built to last
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shristi2211&theme=radical&hide_border=true&background=0d0d0d&ring=f72585&fire=f97316&currStreakLabel=f97316&sideLabels=f72585&dates=ffffff" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=shristi2211&theme=radical&hide_border=true&background=0d0d0d&ring=f72585&fire=f97316&currStreakLabel=f97316&sideLabels=f72585&dates=ffffff&date_format=j%20M%5B%2C%20Y%5D&mode=weekly&starting_year=2023" width="70%"/>
 </div>
 
 ### 🏆 GitHub Trophies
@@ -129,10 +129,10 @@ goal       : Build systems that are reliable & built to last
   <img src="https://github-profile-trophy.vercel.app/?username=shristi2211&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=6&rank=SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
-### 📉 Contribution Graph — Real-Time
+### 📉 Contribution Graph — From 2023 to Today
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shristi2211&bg_color=0d0d0d&color=f97316&line=f72585&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shristi2211&bg_color=0d0d0d&color=f97316&line=f72585&point=ffffff&area=true&hide_border=true&from=2023-11-01&to=2030-01-01" width="100%"/>
 </div>
 
 ### 🐍 Contribution Snake — Auto Regenerates Every 12h
