@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:c9184a,100:f97316&height=200&section=header&text=SHRISTI%20SRIVASTAVA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Platform%20%7C%20DevOps%20%7C%20Network%20%7C%20Backend%20Engineer&descSize=18&descAlignY=62&descAlign=50"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:c9184a,100:f97316&height=200&section=header&text=SHRISTI%20SRIVASTAVA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Platform%20%7C%20DevOps%20%7C%20Network%20%7C%20Backend%20Engineer&descSize=18&descAlignY=62&descAlign=50"/>
 
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F72585&center=true&vCenter=true&random=false&width=600&height=60&lines=Platform+%26+Network+Engineer;DevOps+%26+Backend+Engineer;Distributed+Systems+Architect;CI%2FCD+%26+Infrastructure+Automation;Golang+%7C+Docker+%7C+Kubernetes+%7C+AWS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F72585&center=true&vCenter=true&random=false&width=800&height=80&lines=Platform+%26+Network+Engineer;DevOps+%26+Backend+Engineer;Distributed+Systems+Architect;CI%2FCD+%26+Infrastructure+Automation;Golang+%7C+Docker+%7C+Kubernetes+%7C+AWS" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shristi-srivastava-990245263">
