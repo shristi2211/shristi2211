@@ -1,7 +1,13 @@
-<!-- 🌿 NATURE HEADER -->
+<!-- 🌿 HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,30:2d6a4f,60:40916c,100:52b788&height=220&section=header&text=Shristi%20Srivastava&fontSize=48&fontColor=d8f3dc&animation=fadeIn&fontAlignY=38&desc=🌿%20Engineer%20by%20day%20%7C%20Nature%20lover%20by%20soul&descAlignY=58&descSize=17&descColor=b7e4c7"/>
+  <img src="./hero_banner.png" alt="Shristi Srivastava — DevOps Engineer | Backend | Distributed Systems" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="./name_card.png" alt="Shristi Srivastava / DevOps Engineer" width="60%"/>
+</p>
+
+<br/>
 
 <!-- 🌱 TAGLINE -->
 <h3 align="center">
