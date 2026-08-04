@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="./hero_banner.png" alt="Shristi Srivastava — DevOps · Backend · Distributed Systems" width="100%"/>
+  <img src="./hero_banner.png?v=2" alt="Shristi Srivastava — DevOps · Backend · Distributed Systems" width="100%"/>
 </p>
 
 <!-- CONTACT & VISITOR BADGES -->
