@@ -122,18 +122,12 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shristi2211&theme=dracula" height="175"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shristi2211&theme=dracula" height="175"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shristi2211&theme=dracula" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shristi2211&show_icons=true&theme=dracula&hide_border=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shristi2211&layout=compact&theme=dracula&hide_border=true" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shristi2211&theme=rose_pine&hide_border=true" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shristi2211&theme=dracula&utcOffset=5.5" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shristi2211&theme=dracula" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shristi2211&theme=dracula&hide_border=true" height="175"/>
 </p>
 
 ---
